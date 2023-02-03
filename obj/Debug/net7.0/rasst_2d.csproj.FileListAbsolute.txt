@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\rasst_2d.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\rasst_2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\rasst_2d.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\rasst_2d.AssemblyInfo.cs
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\rasst_2d.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\bin\Debug\net7.0\rasst_2d.exe
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\bin\Debug\net7.0\rasst_2d.deps.json
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\bin\Debug\net7.0\rasst_2d.runtimeconfig.json
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\bin\Debug\net7.0\rasst_2d.dll
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\bin\Debug\net7.0\rasst_2d.pdb
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\rasst_2d.dll
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\refint\rasst_2d.dll
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\rasst_2d.pdb
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\rasst_2d.genruntimeconfig.cache
+C:\Users\alex\geekbrains\c_sharp_4\rasst_2d\obj\Debug\net7.0\ref\rasst_2d.dll
